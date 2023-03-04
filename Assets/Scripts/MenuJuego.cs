@@ -24,7 +24,7 @@ public class MenuJuego : MonoBehaviour
 
     public void EscenaJuego2()
     {
-        SceneManager.LoadScene("Juego 2");
+        SceneManager.LoadScene("Juego2");
     }
 
     public void EscenaJuego3()
